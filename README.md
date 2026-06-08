@@ -21,7 +21,7 @@ Date: June 1, 2025
 
 ## Repository structure
 
-The repository includes all project folders, plus an additional folder containing the replication do-files.
+The repository includes all project folders.
 
 ```text
 Early public childcare and fertility/

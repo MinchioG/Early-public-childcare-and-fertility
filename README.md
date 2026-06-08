@@ -103,8 +103,4 @@ This repository is intended to support computational reproducibility of the publ
 
 ## License
 
-Unless otherwise noted, the Stata code in this repository is distributed under the BSD 3-Clause License or the MIT License, depending on the version selected by the author.
-
-Documentation may be distributed separately under CC BY 4.0 where explicitly indicated.
-
-Third-party data are not covered by the repository license and remain subject to the original providers’ terms.
+Unless otherwise noted, the Stata code in this repository is distributed under the BSD 3-Clause License.

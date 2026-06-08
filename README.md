@@ -1,5 +1,5 @@
 # Early-public-childcare-and-fertility
-Codes for replocation of "Early public childcare and fertility: A longitudinal study for Europe"
+Codes for replication of "Early public childcare and fertility: A longitudinal study for Europe"
 
 # Replication package for “Early public childcare and fertility: A longitudinal study for Europe”
 
